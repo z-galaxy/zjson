@@ -544,6 +544,7 @@ class zjson {
               }\
             ]\
           }";
+          
         console.log(s);
         this.parse(s);
     }
